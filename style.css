@@ -1,0 +1,17 @@
+#body {
+    background-color: #fffaf0cc;
+}
+
+#title {
+    text-align: center;
+    color: rgb(0, 119, 255);
+}
+
+#subtitle{
+    text-align: left;
+    color: rgb(0, 96, 205);
+}
+
+#text {
+    color: rgb(2, 57, 140);
+}
